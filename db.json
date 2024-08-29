@@ -1,0 +1,121 @@
+{
+  "allvideos": [
+    {
+      "id": "2",
+      "name": "trailer",
+      "url": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/old_images/MOVIE/1352/1000081352/1000081352-h",
+      "link": "https://www.youtube.com/embed/uVpHL5g4buY"
+    },
+    {
+      "id": "8",
+      "name": "Chithram",
+      "url": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/old_images/MOVIE/6437/1000106437/1000106437-h",
+      "link": "https://www.youtube.com/embed/1TuEjIaQFZc"
+    },
+    {
+      "id": "11",
+      "name": "Thattathin Marayath",
+      "url": "https://www.bhmpics.com/downloads/thattathin-marayathu-Wallpapers/9.960x540_thattathinmarayathu_7352_5ab18489-4e6f-40be-aa84-176115df864a.jpg",
+      "link": "https://www.youtube.com/embed/agh1aB7cDZY"
+    }
+  ],
+  "history": [
+    {
+      "name": "Thudakkam mangalyam",
+      "link": "https://www.youtube.com/embed/a3UNpjnYquI",
+      "timeStamp": "08/21/2024, 03 PM (second: 30)",
+      "id": 1
+    },
+    {
+      "name": "trailer",
+      "link": "https://www.youtube.com/embed/uVpHL5g4buY",
+      "timeStamp": "08/21/2024, 03 PM (second: 45)",
+      "id": 2
+    },
+    {
+      "name": "trailer",
+      "link": "https://www.youtube.com/embed/uVpHL5g4buY",
+      "timeStamp": "08/21/2024, 03 PM (second: 54)",
+      "id": 3
+    },
+    {
+      "name": "Ente Kannil",
+      "link": "https://www.youtube.com/embed/FJUYcXNznb8",
+      "timeStamp": "08/21/2024, 03 PM (second: 11)",
+      "id": 4
+    },
+    {
+      "name": "banglore",
+      "link": "https://www.youtube.com/embed/dz3ik3XzR54",
+      "timeStamp": "08/21/2024, 03 PM (second: 27)",
+      "id": 5
+    },
+    {
+      "name": "Chithram",
+      "link": "https://www.youtube.com/embed/1TuEjIaQFZc",
+      "timeStamp": "08/23/2024, 01:38:38 PM",
+      "id": 6
+    },
+    {
+      "name": "Notebook",
+      "link": "https://www.youtube.com/embed/1efZpDdKLIA",
+      "timeStamp": "08/23/2024, 01:43:45 PM",
+      "id": 7
+    },
+    {
+      "name": "Aniyathiprav",
+      "link": "https://www.youtube.com/embed/wKqTm1acyuo",
+      "timeStamp": "08/23/2024, 01:45:38 PM",
+      "id": 8
+    },
+    {
+      "name": "Notebook",
+      "link": "https://www.youtube.com/embed/1efZpDdKLIA",
+      "timeStamp": "08/27/2024, 03:18:19 PM",
+      "id": 9
+    },
+    {
+      "name": "Notebook",
+      "link": "https://www.youtube.com/embed/1efZpDdKLIA",
+      "timeStamp": "08/27/2024, 03:23:14 PM",
+      "id": 10
+    },
+    {
+      "name": "Thattathin Marayath",
+      "link": "https://www.youtube.com/embed/agh1aB7cDZY",
+      "timeStamp": "08/29/2024, 09:56:24 AM",
+      "id": 11
+    },
+    {
+      "name": "Thattathin Marayath",
+      "link": "https://www.youtube.com/embed/agh1aB7cDZY",
+      "timeStamp": "08/29/2024, 10:09:58 AM",
+      "id": 12
+    },
+    {
+      "name": "Chithram",
+      "link": "https://www.youtube.com/embed/1TuEjIaQFZc",
+      "timeStamp": "08/29/2024, 10:10:06 AM",
+      "id": 13
+    },
+    {
+      "name": "Thattathin Marayath",
+      "link": "https://www.youtube.com/embed/agh1aB7cDZY",
+      "timeStamp": "08/29/2024, 02:01:52 PM",
+      "id": 14
+    },
+    {
+      "name": "Thattathin Marayath",
+      "link": "https://www.youtube.com/embed/agh1aB7cDZY",
+      "timeStamp": "08/29/2024, 02:01:55 PM",
+      "id": 15
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "categoryName": "cinema",
+      "allVideos": []
+    }
+  ]
+}
